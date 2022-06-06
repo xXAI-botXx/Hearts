@@ -11,16 +11,14 @@ Hearts is a funny cardgame. If you don't know it you maybe [visit this page](htt
 The Game looks like this:
 
 
+https://user-images.githubusercontent.com/50902823/172191590-de1f3c78-aa5d-4870-addb-b6465989b51e.mp4
 
-<video width="1020" controls>
-  <source src="./res/video/2022-01-24 11-32-58.mp4" type="video/mp4">
-</video>
 
 ---
 
-<video width="1020" controls>
-  <source src="./res/video/2022-01-24 11-49-47.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/50902823/172191626-95a897f4-68ea-444e-8c6e-dedae2460738.mp4
+
 
 ---
 
